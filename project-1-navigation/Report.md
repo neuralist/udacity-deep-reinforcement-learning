@@ -136,10 +136,6 @@ As can be seen in the figure above, the episodic score is quite noisy, so a smoo
 
 In this particular run, the agent solved the task after `155` episodes, but training continued for 500 episodes. In the end, the agent has an average score above 16. See further details in the notebook `Navigation.ipynb`.
 
-Watch the trained agent in action below:
-
-![BananaAgent](./report_images/banana_collection.mov "BananaAgent")
-
 ---
 
 ### Future Work
